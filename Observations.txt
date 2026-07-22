@@ -1,0 +1,11 @@
+Observation 1
+
+The Polynomial Regression model fits the non-linear relationship between position level and salary much better than a simple linear model.
+
+Observation 2
+
+The regression curve closely follows the trend of the original data, indicating that a polynomial model of degree 3 is suitable for this dataset.
+
+Observation 3
+
+The evaluation metrics (MAE, MSE, and R² Score) indicate that the model provides accurate salary predictions with minimal error.

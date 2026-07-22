@@ -1,0 +1,9 @@
+This project demonstrates the use of Polynomial Regression to predict employee salaries based on 
+position level. The dataset shows a clear non-linear relationship between the input feature and the target 
+variable, making Polynomial Regression more appropriate than Linear Regression. By transforming the 
+input feature into polynomial features of degree 3, the model is able to capture the curved relationship 
+and produce more accurate salary predictions. The evaluation metrics indicate that the model performs 
+well on the given dataset. Unlike Linear Regression, which assumes a straight-line relationship,
+Polynomial Regression can model complex patterns in the data. One major advantage of Polynomial 
+Regression for this dataset is its ability to accurately represent non-linear trends while maintaining a 
+simple and interpretable machine learning model.
